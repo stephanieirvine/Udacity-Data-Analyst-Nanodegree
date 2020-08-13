@@ -2,7 +2,7 @@
 This repository contains my projects for Udacity's Data Analyst Nanodegree.
 
 ## Project 1: Exploring Weather Trends
-In this project, I analysed local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
+In this project, I analysed local and global temperature data and compared the temperature trends where I live to overall global temperature trends.
 
 [Link to report](https://github.com/stephanieirvine/Udacity-Data-Analyst-Nanodegree/blob/master/Project%201%20-%20Explore%20Weather%20Trends/Stephanie_Irvine_-_Explore_Weather_Trends_Report.pdf)
 
