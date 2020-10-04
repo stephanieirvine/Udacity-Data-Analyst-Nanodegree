@@ -33,6 +33,3 @@ In this project I chose the FordGoBike dataset, and performed an exploratory dat
 [Link to report](https://github.com/stephanieirvine/Udacity-Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/Steph_Irvine_FordGoBike_Data_Exploration.ipynb)
 
 [Link to slides](https://github.com/stephanieirvine/Udacity-Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/slide_deck_fordgo.ipynb)
-
-![alt text](https://github.com/stephanieirvine/Udacity-Data-Analyst-Nanodegree/blob/master/udacity-nanodegree.pdf)
-
