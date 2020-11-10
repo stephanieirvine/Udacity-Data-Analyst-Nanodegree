@@ -35,4 +35,4 @@ In this project I chose the FordGoBike dataset, and performed an exploratory dat
 [Link to slides](https://github.com/stephanieirvine/Udacity-Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/slide_deck_fordgo.ipynb)
 
 ## Certificate 
-[download.pdf](https://github.com/stephanieirvine/Udacity-Data-Analyst-Nanodegree/files/5519873/download.pdf)
+![image](https://user-images.githubusercontent.com/54407746/98726946-171cf000-238f-11eb-9a2e-ddfaf8baefd3.png)
